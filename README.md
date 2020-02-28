@@ -26,7 +26,14 @@ Please respond to the following prompts to demonstrate your understanding of pro
 Describe the break down process of your first release. **(Non-UX students only)**
 
 - Include a screenshot of your current Trello board.
+[<img src="/prompt1.png" width = "200" />]
 - What are the user stories you broke your first release into? Please list them out.
+
+- As a user, I want to sign into the website using google.
+
+- As a user, I want to select the button leading into the customers page.
+
+- As a user, I want to be able to use the search bar to find a specific customer by name, address, or zipcode. 
 
 Describe the design choices behind one of your designs for one flow.. **(UX students only)**
 - Include a screenshot of the flow along with the link to your figma.
@@ -37,8 +44,19 @@ Describe the design choices behind one of your designs for one flow.. **(UX stud
 Find a Trello card that is assigned to you. **(Non-UX students only)**
 
 - Include a screenshot of the detailed Trello card
+[<img src="/prompt2.png" width = "200" />]
 - How does this task tie to the overall product vision?
+
+Users will need to be able to find registered customers by reference of
+more than one search criteria. The customers found will have links that
+are referential to their profiles among other details for the user's 
+direct access.
+
 - What steps go into completing this task? How long do you think it will take you to deliver this task?
+
+Implement additional search parameters.
+
+It is already functional to search by name, to add the address and zipcode parameters will take a day tops. 
 
 Describe how you implemented feedback from design critiques. **(UX students only)**
 - What feedback did you receive from other teams and your design manager? Talk about one specific piece of feedback in detail.
@@ -68,3 +86,7 @@ Please submit a link to your journal entry for this sprint, in the Sprint Retros
 
 [Here is a link to a sample submission](https://www.notion.so/lambdaschool/1-3-Breakdown-Entry-c6da8da59cec4a819c554222cf00549e) that you can use for inspiration.
 **Note** there is no 'sample' for the User Story Quiz. This is one you really need to think through on your own.
+
+
+## Trello Link
+https://trello.com/b/UsH8Ae3e/user-story-sample-ian
